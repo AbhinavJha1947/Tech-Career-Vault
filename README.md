@@ -7,118 +7,118 @@ These are the industry leaders known for high-scale distributed systems.
 
 | Company | Career Site Link |
 | :--- | :--- |
-| Google | [careers.google.com](https://careers.google.com) |
-| Amazon | [amazon.jobs](https://amazon.jobs) |
-| Microsoft | [careers.microsoft.com](https://careers.microsoft.com) |
-| Apple | [apple.com/careers](https://www.apple.com/careers) |
-| Meta | [metacareers.com](https://www.metacareers.com) |
-| Netflix | [jobs.netflix.com](https://jobs.netflix.com) |
-| Uber | [uber.com/careers](https://www.uber.com/careers) |
-| Airbnb | [careers.airbnb.com](https://careers.airbnb.com) |
-| LinkedIn | [linkedin.com/help/linkedin/answer/a5113](https://www.linkedin.com/help/linkedin/answer/a5113) |
+| Google | <a href="https://careers.google.com" target="_blank" rel="noopener noreferrer">careers.google.com</a> |
+| Amazon | <a href="https://amazon.jobs" target="_blank" rel="noopener noreferrer">amazon.jobs</a> |
+| Microsoft | <a href="https://careers.microsoft.com" target="_blank" rel="noopener noreferrer">careers.microsoft.com</a> |
+| Apple | <a href="https://www.apple.com/careers" target="_blank" rel="noopener noreferrer">apple.com/careers</a> |
+| Meta | <a href="https://www.metacareers.com" target="_blank" rel="noopener noreferrer">metacareers.com</a> |
+| Netflix | <a href="https://jobs.netflix.com" target="_blank" rel="noopener noreferrer">jobs.netflix.com</a> |
+| Uber | <a href="https://www.uber.com/careers" target="_blank" rel="noopener noreferrer">uber.com/careers</a> |
+| Airbnb | <a href="https://careers.airbnb.com" target="_blank" rel="noopener noreferrer">careers.airbnb.com</a> |
+| LinkedIn | <a href="https://www.linkedin.com/help/linkedin/answer/a5113" target="_blank" rel="noopener noreferrer">linkedin.com/help/linkedin/answer/a5113</a> |
 
 ## 2. SaaS, Cloud & Dev Tools
 High-growth companies focused on B2B software, cloud infrastructure, and developer productivity.
 
 | Company | Career Site Link |
 | :--- | :--- |
-| Atlassian | [atlassian.com/company/careers](https://www.atlassian.com/company/careers) |
-| Stripe | [stripe.com/jobs](https://stripe.com/jobs) |
-| Snowflake | [snowflake.com/careers](https://www.snowflake.com/careers) |
-| Databricks | [databricks.com/company/careers](https://www.databricks.com/company/careers) |
-| Cloudflare | [cloudflare.com/careers](https://www.cloudflare.com/careers) |
-| Salesforce | [salesforce.com/company/careers](https://www.salesforce.com/company/careers) |
-| Adobe | [adobe.com/careers](https://www.adobe.com/careers) |
-| VMware | [careers.vmware.com](https://careers.vmware.com) |
-| Intuit | [intuit.com/careers](https://www.intuit.com/careers) |
-| ServiceNow | [servicenow.com/careers](https://www.servicenow.com/careers) |
-| Elastic | [elastic.co/about/careers](https://www.elastic.co/about/careers) |
-| Twilio | [twilio.com/company/jobs](https://www.twilio.com/company/jobs) |
-| Postman | [postman.com/careers](https://www.postman.com/careers) |
-| Zoho | [zoho.com/careers](https://www.zoho.com/careers) |
-| Freshworks | [freshworks.com/company/careers](https://www.freshworks.com/company/careers) |
-| Druva | [druva.com/about/careers](https://www.druva.com/about/careers) |
-| Chargebee | [chargebee.com/company/careers](https://www.chargebee.com/company/careers) |
-| Clevertap | [clevertap.com/careers](https://clevertap.com/careers) |
-| Darwinbox | [darwinbox.com/careers](https://darwinbox.com/careers) |
-| Yellow.ai | [yellow.ai/company/careers](https://yellow.ai/company/careers) |
-| Haptik | [haptik.ai/careers](https://haptik.ai/careers) |
-| Whatfix | [whatfix.com/careers](https://whatfix.com/careers) |
-| Exotel | [exotel.com/careers](https://exotel.com/careers) |
-| Hasura | [hasura.io/careers](https://hasura.io/careers) |
+| Atlassian | <a href="https://www.atlassian.com/company/careers" target="_blank" rel="noopener noreferrer">atlassian.com/company/careers</a> |
+| Stripe | <a href="https://stripe.com/jobs" target="_blank" rel="noopener noreferrer">stripe.com/jobs</a> |
+| Snowflake | <a href="https://www.snowflake.com/careers" target="_blank" rel="noopener noreferrer">snowflake.com/careers</a> |
+| Databricks | <a href="https://www.databricks.com/company/careers" target="_blank" rel="noopener noreferrer">databricks.com/company/careers</a> |
+| Cloudflare | <a href="https://www.cloudflare.com/careers" target="_blank" rel="noopener noreferrer">cloudflare.com/careers</a> |
+| Salesforce | <a href="https://www.salesforce.com/company/careers" target="_blank" rel="noopener noreferrer">salesforce.com/company/careers</a> |
+| Adobe | <a href="https://www.adobe.com/careers" target="_blank" rel="noopener noreferrer">adobe.com/careers</a> |
+| VMware | <a href="https://careers.vmware.com" target="_blank" rel="noopener noreferrer">careers.vmware.com</a> |
+| Intuit | <a href="https://www.intuit.com/careers" target="_blank" rel="noopener noreferrer">intuit.com/careers</a> |
+| ServiceNow | <a href="https://www.servicenow.com/careers" target="_blank" rel="noopener noreferrer">servicenow.com/careers</a> |
+| Elastic | <a href="https://www.elastic.co/about/careers" target="_blank" rel="noopener noreferrer">elastic.co/about/careers</a> |
+| Twilio | <a href="https://www.twilio.com/company/jobs" target="_blank" rel="noopener noreferrer">twilio.com/company/jobs</a> |
+| Postman | <a href="https://www.postman.com/careers" target="_blank" rel="noopener noreferrer">postman.com/careers</a> |
+| Zoho | <a href="https://www.zoho.com/careers" target="_blank" rel="noopener noreferrer">zoho.com/careers</a> |
+| Freshworks | <a href="https://www.freshworks.com/company/careers" target="_blank" rel="noopener noreferrer">freshworks.com/company/careers</a> |
+| Druva | <a href="https://www.druva.com/about/careers" target="_blank" rel="noopener noreferrer">druva.com/about/careers</a> |
+| Chargebee | <a href="https://www.chargebee.com/company/careers" target="_blank" rel="noopener noreferrer">chargebee.com/company/careers</a> |
+| Clevertap | <a href="https://clevertap.com/careers" target="_blank" rel="noopener noreferrer">clevertap.com/careers</a> |
+| Darwinbox | <a href="https://darwinbox.com/careers" target="_blank" rel="noopener noreferrer">darwinbox.com/careers</a> |
+| Yellow.ai | <a href="https://yellow.ai/company/careers" target="_blank" rel="noopener noreferrer">yellow.ai/company/careers</a> |
+| Haptik | <a href="https://haptik.ai/careers" target="_blank" rel="noopener noreferrer">haptik.ai/careers</a> |
+| Whatfix | <a href="https://whatfix.com/careers" target="_blank" rel="noopener noreferrer">whatfix.com/careers</a> |
+| Exotel | <a href="https://exotel.com/careers" target="_blank" rel="noopener noreferrer">exotel.com/careers</a> |
+| Hasura | <a href="https://hasura.io/careers" target="_blank" rel="noopener noreferrer">hasura.io/careers</a> |
 
 ## 3. Indian Tech Giants & Consumer Apps
 The primary "Unicorn" ecosystem in India, covering E-commerce, FoodTech, and Logistics.
 
 | Company | Career Site Link |
 | :--- | :--- |
-| Flipkart | [flipkartcareers.com](https://www.flipkartcareers.com) |
-| Zomato | [zomato.com/careers](https://www.zomato.com/careers) |
-| Swiggy | [careers.swiggy.com](https://careers.swiggy.com) |
-| Myntra | [careers.myntra.com](https://careers.myntra.com) |
-| Meesho | [meesho.io/jobs](https://meesho.io/jobs) |
-| Ola | [ola.com/careers](https://ola.com/careers) |
-| OYO | [oyorooms.com/careers](https://oyorooms.com/careers) |
-| Urban Company | [urbancompany.com/careers](https://www.urbancompany.com/careers) |
-| ShareChat / Moj | [sharechat.com/careers](https://sharechat.com/careers) |
-| Porter | [porter.in/careers](https://porter.in/careers) |
-| Cars24 | [cars24.com/careers](https://www.cars24.com/careers) |
-| MakeMyTrip | [careers.makemytrip.com](https://careers.makemytrip.com) |
-| BookMyShow | [careers.bookmyshow.com](https://careers.bookmyshow.com) |
-| Lenskart | [hiring.lenskart.com](https://hiring.lenskart.com) |
-| Delhivery | [delhivery.com/careers](https://www.delhivery.com/careers) |
-| Zepto | [zeptonow.com/careers](https://www.zeptonow.com/careers) |
-| Dream11 | [careers.dream11.com](https://careers.dream11.com) |
-| InMobi | [inmobi.com/company/careers](https://www.inmobi.com/company/careers) |
-| Udaan | [careers.udaan.com](https://careers.udaan.com) |
-| Cult.fit | [cult.fit/careers](https://www.cult.fit/careers) |
-| Unacademy | [unacademy.com/careers](https://unacademy.com/careers) |
-| Byju's | [byjus.com/careers](https://byjus.com/careers) |
-| Practo | [practo.com/company/careers](https://www.practo.com/company/careers) |
-| PharmEasy | [pharmeasy.in/careers](https://pharmeasy.in/careers) |
-| Nykaa | [nykaa.com/careers](https://www.nykaa.com/careers) |
-| BigBasket | [bigbasket.com/careers](https://www.bigbasket.com/careers) |
-| Stanza Living | [stanzaliving.com/careers](https://www.stanzaliving.com/careers) |
-| Rapido | [rapido.bike/careers](https://rapido.bike/careers) |
-| Rebel Foods | [rebelfoods.com/careers](https://rebelfoods.com/careers) |
-| BlackBuck | [blackbuck.com/careers](https://blackbuck.com/careers) |
-| Shadowfax | [shadowfax.in/careers](https://shadowfax.in/careers) |
-| Dunzo | [dunzo.com/careers](https://www.dunzo.com/careers) |
+| Flipkart | <a href="https://www.flipkartcareers.com" target="_blank" rel="noopener noreferrer">flipkartcareers.com</a> |
+| Zomato | <a href="https://www.zomato.com/careers" target="_blank" rel="noopener noreferrer">zomato.com/careers</a> |
+| Swiggy | <a href="https://careers.swiggy.com" target="_blank" rel="noopener noreferrer">careers.swiggy.com</a> |
+| Myntra | <a href="https://careers.myntra.com" target="_blank" rel="noopener noreferrer">careers.myntra.com</a> |
+| Meesho | <a href="https://meesho.io/jobs" target="_blank" rel="noopener noreferrer">meesho.io/jobs</a> |
+| Ola | <a href="https://ola.com/careers" target="_blank" rel="noopener noreferrer">ola.com/careers</a> |
+| OYO | <a href="https://oyorooms.com/careers" target="_blank" rel="noopener noreferrer">oyorooms.com/careers</a> |
+| Urban Company | <a href="https://www.urbancompany.com/careers" target="_blank" rel="noopener noreferrer">urbancompany.com/careers</a> |
+| ShareChat / Moj | <a href="https://sharechat.com/careers" target="_blank" rel="noopener noreferrer">sharechat.com/careers</a> |
+| Porter | <a href="https://porter.in/careers" target="_blank" rel="noopener noreferrer">porter.in/careers</a> |
+| Cars24 | <a href="https://www.cars24.com/careers" target="_blank" rel="noopener noreferrer">cars24.com/careers</a> |
+| MakeMyTrip | <a href="https://careers.makemytrip.com" target="_blank" rel="noopener noreferrer">careers.makemytrip.com</a> |
+| BookMyShow | <a href="https://careers.bookmyshow.com" target="_blank" rel="noopener noreferrer">careers.bookmyshow.com</a> |
+| Lenskart | <a href="https://hiring.lenskart.com" target="_blank" rel="noopener noreferrer">hiring.lenskart.com</a> |
+| Delhivery | <a href="https://www.delhivery.com/careers" target="_blank" rel="noopener noreferrer">delhivery.com/careers</a> |
+| Zepto | <a href="https://www.zeptonow.com/careers" target="_blank" rel="noopener noreferrer">zeptonow.com/careers</a> |
+| Dream11 | <a href="https://careers.dream11.com" target="_blank" rel="noopener noreferrer">careers.dream11.com</a> |
+| InMobi | <a href="https://www.inmobi.com/company/careers" target="_blank" rel="noopener noreferrer">inmobi.com/company/careers</a> |
+| Udaan | <a href="https://careers.udaan.com" target="_blank" rel="noopener noreferrer">careers.udaan.com</a> |
+| Cult.fit | <a href="https://www.cult.fit/careers" target="_blank" rel="noopener noreferrer">cult.fit/careers</a> |
+| Unacademy | <a href="https://unacademy.com/careers" target="_blank" rel="noopener noreferrer">unacademy.com/careers</a> |
+| Byju's | <a href="https://byjus.com/careers" target="_blank" rel="noopener noreferrer">byjus.com/careers</a> |
+| Practo | <a href="https://www.practo.com/company/careers" target="_blank" rel="noopener noreferrer">practo.com/company/careers</a> |
+| PharmEasy | <a href="https://pharmeasy.in/careers" target="_blank" rel="noopener noreferrer">pharmeasy.in/careers</a> |
+| Nykaa | <a href="https://www.nykaa.com/careers" target="_blank" rel="noopener noreferrer">nykaa.com/careers</a> |
+| BigBasket | <a href="https://www.bigbasket.com/careers" target="_blank" rel="noopener noreferrer">bigbasket.com/careers</a> |
+| Stanza Living | <a href="https://www.stanzaliving.com/careers" target="_blank" rel="noopener noreferrer">stanzaliving.com/careers</a> |
+| Rapido | <a href="https://rapido.bike/careers" target="_blank" rel="noopener noreferrer">rapido.bike/careers</a> |
+| Rebel Foods | <a href="https://rebelfoods.com/careers" target="_blank" rel="noopener noreferrer">rebelfoods.com/careers</a> |
+| BlackBuck | <a href="https://blackbuck.com/careers" target="_blank" rel="noopener noreferrer">blackbuck.com/careers</a> |
+| Shadowfax | <a href="https://shadowfax.in/careers" target="_blank" rel="noopener noreferrer">shadowfax.in/careers</a> |
+| Dunzo | <a href="https://www.dunzo.com/careers" target="_blank" rel="noopener noreferrer">dunzo.com/careers</a> |
 
 ## 4. FinTech & Quantitative Finance
 Companies dealing with high-frequency trading, digital payments, and banking technology.
 
 | Company | Career Site Link |
 | :--- | :--- |
-| DE Shaw | [deshaw.com/careers](https://www.deshaw.com/careers) |
-| Goldman Sachs | [goldmansachs.com/careers](https://www.goldmansachs.com/careers) |
-| JPMorgan Chase | [jpmorganchase.com/careers](https://www.jpmorganchase.com/careers) |
-| PayPal | [paypal.com/careers](https://www.paypal.com/careers) |
-| Razorpay | [razorpay.com/jobs](https://razorpay.com/jobs) |
-| PhonePe | [phonepe.com/careers](https://www.phonepe.com/careers) |
-| Paytm | [paytm.com/careers](https://paytm.com/careers) |
-| Cred | [cred.club/careers](https://cred.club/careers) |
-| Zerodha | [zerodha.com/careers](https://zerodha.com/careers) |
-| Groww | [groww.in/careers](https://groww.in/careers) |
-| Pine Labs | [pinelabs.com/careers](https://www.pinelabs.com/careers) |
-| Navi | [navi.com/careers](https://navi.com/careers) |
-| BillDesk | [billdesk.com/careers](https://www.billdesk.com/careers) |
-| Juspay | [juspay.in/careers](https://juspay.in/careers) |
-| CoinDCX | [coindcx.com/careers](https://coindcx.com/careers) |
-| CoinSwitch | [coinswitch.co/careers](https://coinswitch.co/careers) |
-| Slice | [sliceit.com/careers](https://www.sliceit.com/careers) |
-| Khatabook | [khatabook.com/careers](https://khatabook.com/careers) |
-| Rupeek | [rupeek.com/careers](https://rupeek.com/careers) |
+| DE Shaw | <a href="https://www.deshaw.com/careers" target="_blank" rel="noopener noreferrer">deshaw.com/careers</a> |
+| Goldman Sachs | <a href="https://www.goldmansachs.com/careers" target="_blank" rel="noopener noreferrer">goldmansachs.com/careers</a> |
+| JPMorgan Chase | <a href="https://www.jpmorganchase.com/careers" target="_blank" rel="noopener noreferrer">jpmorganchase.com/careers</a> |
+| PayPal | <a href="https://www.paypal.com/careers" target="_blank" rel="noopener noreferrer">paypal.com/careers</a> |
+| Razorpay | <a href="https://razorpay.com/jobs" target="_blank" rel="noopener noreferrer">razorpay.com/jobs</a> |
+| PhonePe | <a href="https://www.phonepe.com/careers" target="_blank" rel="noopener noreferrer">phonepe.com/careers</a> |
+| Paytm | <a href="https://paytm.com/careers" target="_blank" rel="noopener noreferrer">paytm.com/careers</a> |
+| Cred | <a href="https://cred.club/careers" target="_blank" rel="noopener noreferrer">cred.club/careers</a> |
+| Zerodha | <a href="https://zerodha.com/careers" target="_blank" rel="noopener noreferrer">zerodha.com/careers</a> |
+| Groww | <a href="https://groww.in/careers" target="_blank" rel="noopener noreferrer">groww.in/careers</a> |
+| Pine Labs | <a href="https://www.pinelabs.com/careers" target="_blank" rel="noopener noreferrer">pinelabs.com/careers</a> |
+| Navi | <a href="https://navi.com/careers" target="_blank" rel="noopener noreferrer">navi.com/careers</a> |
+| BillDesk | <a href="https://www.billdesk.com/careers" target="_blank" rel="noopener noreferrer">billdesk.com/careers</a> |
+| Juspay | <a href="https://juspay.in/careers" target="_blank" rel="noopener noreferrer">juspay.in/careers</a> |
+| CoinDCX | <a href="https://coindcx.com/careers" target="_blank" rel="noopener noreferrer">coindcx.com/careers</a> |
+| CoinSwitch | <a href="https://coinswitch.co/careers" target="_blank" rel="noopener noreferrer">coinswitch.co/careers</a> |
+| Slice | <a href="https://www.sliceit.com/careers" target="_blank" rel="noopener noreferrer">sliceit.com/careers</a> |
+| Khatabook | <a href="https://khatabook.com/careers" target="_blank" rel="noopener noreferrer">khatabook.com/careers</a> |
+| Rupeek | <a href="https://rupeek.com/careers" target="_blank" rel="noopener noreferrer">rupeek.com/careers</a> |
 
 ## 5. Specialized Infrastructure & Security
 Focusing on Open Source, Cyber Security, and Virtualization.
 
 | Company | Career Site Link |
 | :--- | :--- |
-| Red Hat | [redhat.com/careers](https://www.redhat.com/careers) |
-| Nutanix | [nutanix.com/careers](https://www.nutanix.com/careers) |
-| Snyk | [snyk.io/careers](https://snyk.io/careers) |
-| BrowserStack | [browserstack.com/careers](https://www.browserstack.com/careers) |
-| Confluent | [confluent.io/careers](https://www.confluent.io/careers) |
-| Innovaccer | [innovaccer.com/careers](https://innovaccer.com/careers) |
-| Polygon | [polygon.technology/careers](https://polygon.technology/careers) |
+| Red Hat | <a href="https://www.redhat.com/careers" target="_blank" rel="noopener noreferrer">redhat.com/careers</a> |
+| Nutanix | <a href="https://www.nutanix.com/careers" target="_blank" rel="noopener noreferrer">nutanix.com/careers</a> |
+| Snyk | <a href="https://snyk.io/careers" target="_blank" rel="noopener noreferrer">snyk.io/careers</a> |
+| BrowserStack | <a href="https://www.browserstack.com/careers" target="_blank" rel="noopener noreferrer">browserstack.com/careers</a> |
+| Confluent | <a href="https://www.confluent.io/careers" target="_blank" rel="noopener noreferrer">confluent.io/careers</a> |
+| Innovaccer | <a href="https://innovaccer.com/careers" target="_blank" rel="noopener noreferrer">innovaccer.com/careers</a> |
+| Polygon | <a href="https://polygon.technology/careers" target="_blank" rel="noopener noreferrer">polygon.technology/careers</a> |
